@@ -1,0 +1,47 @@
+[
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S1000",
+    "timestamp": "2019-12-16T13:59:58+00:00",
+    "content": {
+      "name": "maria"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S2000",
+    "timestamp": "2019-12-16T13:59:58+00:00",
+    "content": {
+      "name": ""
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S2000",
+    "timestamp": "2019-12-16T13:59:59+00:00",
+    "content": {
+      "name": "joao"
+    }
+  },
+  {
+    "customer": "C2000",
+    "flow": "F2000",
+    "session": "S3000",
+    "timestamp": "2019-12-16T13:59:59+00:00",
+    "content": {
+      "recomenda": "Simmmmmmm"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S2000",
+    "timestamp": "2019-12-16T13:59:59+00:00",
+    "content": {
+      "cpf": "733.600.420-26"
+    }
+  }
+]

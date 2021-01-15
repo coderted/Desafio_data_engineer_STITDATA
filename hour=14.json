@@ -1,0 +1,47 @@
+[
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S1000",
+    "timestamp": "2019-12-16T14:00:00+00:00",
+    "content": {
+      "cpf": "ZZZ"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S2000",
+    "timestamp": "2019-12-16T14:00:00+00:00",
+    "content": {
+      "delivery_confirmed": "não"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S1000",
+    "timestamp": "2019-12-16T14:00:01+00:00",
+    "content": {
+      "cpf": "305.584.960-40"
+    }
+  },
+   {
+    "customer": "C2000",
+    "flow": "F2000",
+    "session": "S3000",
+    "timestamp": "2019-12-16T14:00:01+00:00",
+    "content": {
+      "nota": "9"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S1000",
+    "timestamp": "2019-12-16T14:00:01+00:00",
+    "content": {
+      "delivery_confirmed": "sim"
+    }
+  }
+]
